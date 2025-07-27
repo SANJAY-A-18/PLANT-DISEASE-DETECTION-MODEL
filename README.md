@@ -1,4 +1,4 @@
-# 🌱 Plant Disease Detection with EfficientNetB0 (Keras + TensorFlow)
+# 🌿 Plant Disease Detection with EfficientNetB0 (Keras + TensorFlow)
 
 This project implements a **deep learning-based image classifier** that identifies plant diseases from leaf images. It uses **EfficientNetB0** as the backbone and is trained on an augmented dataset using **transfer learning**, **mixed precision**, and **checkpointing** to ensure high accuracy and optimized training time.
 
